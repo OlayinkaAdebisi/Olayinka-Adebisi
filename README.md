@@ -1,13 +1,13 @@
-# Hi there, I'm [Adebisi Olayinka Abdul-Afeez]! 👋
+# Hi there, I'm Adebisi Olayinka Abdul-Afeez! 👋
 
-![Banner Image]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fthepracticaldev&psig=AOvVaw3khda-ofRLtZPVzu3e8R6j&ust=1756521798716000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIC88eD_ro8DFQAAAAAdAAAAABAE))
+![Banner Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fthepracticaldev&psig=AOvVaw3khda-ofRLtZPVzu3e8R6j&ust=1756521798716000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIC88eD_ro8DFQAAAAAdAAAAABAE)
 
 ## About Me 🚀
 
-I'm a passionate **[Software Engineer]** with experience in **[Python,Django,SQL and Git]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Engineer** with experience in **Python,Django,SQL and Git**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Back End Developement]**
-- 🔭 Working on: **[ALX Back End Web Developement]**
+- 🌱 Currently learning: **Back End Developement**
+- 🔭 Working on: **ALX Back End Web Developement**
 - 🌍 Languages: **[English, C,Python,Sqlite,Django]**
 - 📫 How to reach me: **[adebisio024@gmail.com]**
 - ⚡ Fun fact: **[I learn stuff when i`m bored]**
