@@ -1,6 +1,6 @@
 # Hi there, I'm Adebisi Olayinka Abdul-Afeez! 👋
 
-![Banner Image]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fthepracticaldev&psig=AOvVaw3khda-ofRLtZPVzu3e8R6j&ust=1756521798716000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIC88eD_ro8DFQAAAAAdAAAAABAE](https://www.interviewbit.com/blog/wp-content/uploads/2021/06/Servers-1536x960.jpg))
+![Banner Image]((https://avatars.githubusercontent.com/u/13521919?s=200&v=4))
 
 ## About Me 🚀
 
