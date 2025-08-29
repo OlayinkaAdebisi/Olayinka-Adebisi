@@ -19,7 +19,7 @@ I'm a passionate **[Software Engineer]** with experience in **[Python,Django,SQL
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+
 
 ## Featured Projects 💻
 
