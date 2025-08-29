@@ -1,6 +1,6 @@
-# Hi there, I'm Adebisi Olayinka Abdul-Afeez! 👋
+# Hi there, I'm [Adebisi Olayinka Abdul-Afeez]! 👋
 
-![Banner Image]([your_banner_image_url_here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fthepracticaldev&psig=AOvVaw3khda-ofRLtZPVzu3e8R6j&ust=1756521798716000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIC88eD_ro8DFQAAAAAdAAAAABAE))
+![Banner Image]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fthepracticaldev&psig=AOvVaw3khda-ofRLtZPVzu3e8R6j&ust=1756521798716000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIC88eD_ro8DFQAAAAAdAAAAABAE))
 
 ## About Me 🚀
 
