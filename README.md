@@ -1,6 +1,6 @@
 # Hi there, I'm Adebisi Olayinka Abdul-Afeez! 👋
 
-![Banner Image]((https://avatars.githubusercontent.com/u/13521919?s=200&v=4))
+![Banner Image](https://avatars.githubusercontent.com/u/13521919?s=200&v=4)
 
 ## About Me 🚀
 
