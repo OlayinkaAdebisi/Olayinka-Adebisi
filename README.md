@@ -38,7 +38,7 @@ I'm a passionate **[Software Engineer]** with experience in **[Python,Django,SQL
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[[Linkedin]https://www.linkedin.com/in/olayinka-adebisi-99a0002a4/]**(your_linkedin_profile_link)
-- **[[Twitter](https://x.com/Adebisi68113084)]**(your_twitter_profile_link)
+- **[[Linkedin](https://www.linkedin.com/in/olayinka-adebisi-99a0002a4/)]**
+- **[[Twitter](https://x.com/Adebisi68113084)]**
 
 
